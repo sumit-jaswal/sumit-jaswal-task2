@@ -31,6 +31,7 @@ body {
 }
 
 #display {
+	font-family: 'Open Sans', sans-serif;
 	display: block;
 	margin: 15px auto;
 	height: 42px;
@@ -114,6 +115,7 @@ body {
 	border-left: 1px solid white;
 	border-radius: 2px;
 	box-shadow: 1px 1px 1px #203A43;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .digits:hover{
